@@ -1,3 +1,3 @@
 # **METAS SEMANA 1 :)**
-## - Investigar y definir qué aspectos de la educación se desea predecir (por ejemplo, mejora en el rendimiento académico, acceso a la educación, equidad en recursos, etc.) y qué impacto se espera lograr.
-## - Del áreaa o áreas elegidas, recolectar y limpiar datos: Investigación y consolidación de fuentes de datos (INEGI, SEP, censo, estudios académicos, etc.).
+## - Investigar y definir qué aspectos de la educación se desea predecir (por ejemplo, mejora en el rendimiento académico, acceso a la educación, equidad en recursos,calidad educativa, retención y deserción escolar, efectividad de programas y políticas educativas, distribución y estado de la infraestructura escolar, inclusión y equidad social, Impacto de Variables regionales, demográficas y culturales, innovación y adaptación pedagógica, brechas de género y equidad de oportunidades, futuro de la formación docente etc.) y qué impacto se espera lograr.
+## - De los aspectos elegidos, recolectar y limpiar datos: Investigación y consolidación de fuentes de datos (INEGI, SEP, censo, estudios académicos, etc.).
